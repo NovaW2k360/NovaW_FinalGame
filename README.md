@@ -27,4 +27,4 @@ How far did you stray from the game design document?
   >I don't think I strayed far from it, other than taking my introduction scene out of the code (sort of). I mostlly just strayed by adding my game title to my background and addding in background music, as well as adding color to the main text box for aesthetics.
 
 How did you stay on track?
-    >I mostlly followed my game document exactly as I planned, with a few additional things.
+  >I mostlly followed my game document exactly as I planned, with a few additional things.
